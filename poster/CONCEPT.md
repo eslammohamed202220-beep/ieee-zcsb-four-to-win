@@ -1,9 +1,9 @@
-# Signal / Scan
+# White Signal
 
-The poster treats the quiz as one clear action: see the challenge, scan, begin. Its large condensed lettering carries the energy of the existing presentation, while the QR code gets a quiet white field with enough space for reliable scanning.
+The poster is mostly white, so the team identity and the QR code have room to breathe. A compact navy plaque holds the original white IEEE logo intact. Navy and branch blue carry the headline; signal yellow appears only where the viewer should act.
 
-IEEE navy is the canvas, branch blue gives the lower half depth, and signal yellow marks the action. Lines and circles evoke measured electrical signals without pretending to be circuit schematics. The original branch logo sits at the top with no alteration.
+One large title establishes the challenge, then a central QR code becomes the visual destination. The code has its own white quiet zone and a clear blue frame. Four yellow corners echo the four questions without touching the code.
 
-The composition reads from the team identity, to “FOUR TO WIN,” to the QR code, then to the single instruction. Details stay secondary so someone can understand the poster from across a room. The URL is printed as a fallback for anyone who cannot scan.
+Thin abstract traces sit outside the QR frame as a reference to electricity. They are decorative marks rather than circuit diagrams, so they cannot suggest an incorrect connection. A navy strip at the bottom gives one unmistakable instruction: scan to start the quiz.
 
-The QR modules remain square, high contrast, and unobstructed. No artwork overlaps the quiet zone. The final image is a 4:5 social poster at 1600 × 2000 pixels, made to retain crisp edges when shared or printed.
+The 1600 × 2000 PNG is prepared for sharing as a 4:5 poster. The public link is printed beneath the call to action as a fallback, and the QR is checked against that exact link after rendering.
