@@ -4,6 +4,10 @@ A four-question circuits quiz with a 60-question bank and three choices per ques
 
 [**Open the quiz**](https://eslammohamed202220-beep.github.io/ieee-zcsb-four-to-win/) · [**View the source**](https://github.com/eslammohamed202220-beep/ieee-zcsb-four-to-win)
 
+![Four to Win QR poster](poster/scan-to-start.png)
+
+[Download the 1600 × 2000 poster](poster/scan-to-start.png).
+
 ## How it works
 
 - Each visit or refresh selects four random questions. The new set excludes all four questions from the previous round on the same device.
