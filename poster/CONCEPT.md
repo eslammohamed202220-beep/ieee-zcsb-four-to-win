@@ -6,4 +6,4 @@ One large title establishes the challenge, then a central QR code becomes the vi
 
 The white space around the QR frame stays clear. A navy strip at the bottom gives one unmistakable instruction: scan to start the quiz.
 
-The 1600 × 2000 PNG is prepared for sharing as a 4:5 poster. The public link is printed beneath the call to action as a fallback, and the QR is checked against that exact link after rendering.
+The 1600 × 2000 PNG is prepared for sharing as a 4:5 poster. The link is encoded only inside the QR, which is checked against the exact destination after rendering.
